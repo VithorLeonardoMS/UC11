@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="aulaTeste2.CalculadoraTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-02-07T19:32:55" hostname="SLE213824" time="0.028">
+  <properties/>
+  <testcase name="testRaizQuadradaPorNegativo()" classname="aulaTeste2.CalculadoraTest" time="0.017"/>
+  <testcase name="testDivisaoPorZero()" classname="aulaTeste2.CalculadoraTest" time="0.001"/>
+  <testcase name="testRaizQuadrada()" classname="aulaTeste2.CalculadoraTest" time="0.001"/>
+  <testcase name="testAdd()" classname="aulaTeste2.CalculadoraTest" time="0.001"/>
+  <testcase name="testDivisaoSimples()" classname="aulaTeste2.CalculadoraTest" time="0.001"/>
+  <testcase name="testSubtracao()" classname="aulaTeste2.CalculadoraTest" time="0.001"/>
+  <testcase name="testMultiplicacao()" classname="aulaTeste2.CalculadoraTest" time="0.0"/>
+  <testcase name="testPotenciacao()" classname="aulaTeste2.CalculadoraTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
